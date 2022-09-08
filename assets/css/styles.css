@@ -378,7 +378,7 @@ body.dark-theme{
   overflow: hidden;
   border-radius: 125px 125px 12px 12px;
   display: inline-flex;
-  align-items: flex-end;
+  align-items: center;
   bottom: -1.5rem;
   box-shadow: 0 16px 32px hsla(228, 66%, 25%, .25);
 }
@@ -1121,12 +1121,12 @@ body.dark-theme{
   .home__orbe{
     width: 504px;
     height: 611px;
-    border-radius: 256px 256px 0 0;
+    border-radius: 56px 56px 0 0;
   }
   .home__img{
     width: 472px;
     height: 634px;
-    border-radius: 236px 236px 12px 12px;
+    border-radius: 36px 36px 12px 12px;
     bottom: -2.5rem;
   }
 
